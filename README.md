@@ -8,3 +8,4 @@ This is a repository to maintain a 7-day GitHub streak.
 # west-borneo
 - Day 2: Commit to keep the streak alive! 🔥
 - day 3: love you tia
+- day 4 keep strong 🔥
