@@ -9,3 +9,4 @@ This is a repository to maintain a 7-day GitHub streak.
 - Day 2: Commit to keep the streak alive! 🔥
 - day 3: love you tia
 - day 4 keep strong 🔥
+= day 5 still alone
