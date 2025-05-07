@@ -11,3 +11,4 @@ This is a repository to maintain a 7-day GitHub streak.
 - day 4 keep strong 🔥
 = day 5 still alone
 - day 6 still learn
+- day 7 on fire 🔥
